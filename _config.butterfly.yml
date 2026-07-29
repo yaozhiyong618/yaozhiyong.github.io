@@ -2,9 +2,9 @@
 
 # 导航栏菜单
 menu:
-  首页: / || fas fa-home
-  归档: /archives/ || fas fa-archive
-  学术著作: /2026/07/29/publications/ || fas fa-book
+  首页: /yaozhiyong.github.io/ || fas fa-home
+  归档: /yaozhiyong.github.io/archives/ || fas fa-archive
+  学术著作: /yaozhiyong.github.io/2026/07/29/publications/ || fas fa-book
 
 # 侧边栏个人卡片
 aside:
@@ -15,10 +15,15 @@ aside:
     enable: true
     description: 经济学、政治学与文明论研究学者
     avatar: /img/avatar.png
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/yaozhiyong618/
 
 # 社交链接
 social:
-  GitHub: https://github.com/yaozhiyong618 || fab fa-github
+  GitHub: https://github.com/yaozhiyong618/ || fab fa-github
 
 # 主题颜色与外观
 theme_color:
