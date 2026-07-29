@@ -1,13 +1,13 @@
 # Butterfly Theme Configuration
 
-# 导航栏菜单（中英对照，“学术著作”调整为“著作”）
+# 导航栏菜单（由 Hexo 自动结合 root 自动生成，菜单路径须为从根目录开始的斜杠）
 menu:
-  首页 Home: /yaozhiyong.github.io/ || fas fa-home
-  著作 Publications: /yaozhiyong.github.io/categories/论文/ || fas fa-book
-  杂文 Essays: /yaozhiyong.github.io/categories/杂文/ || fas fa-feather-alt
-  课程 Courses: /yaozhiyong.github.io/categories/课程/ || fas fa-graduation-cap
-  关于作者 About: /yaozhiyong.github.io/2026/07/29/yaozhiyong-profile/ || fas fa-user-circle
-  归档 Archives: /yaozhiyong.github.io/archives/ || fas fa-archive
+  首页 Home: / || fas fa-home
+  著作 Publications: /categories/论文/ || fas fa-book
+  杂文 Essays: /categories/杂文/ || fas fa-feather-alt
+  课程 Courses: /categories/课程/ || fas fa-graduation-cap
+  关于作者 About: /2026/07/29/yaozhiyong-profile/ || fas fa-user-circle
+  归档 Archives: /archives/ || fas fa-archive
 
 # 侧边栏与公告栏设置
 aside:
