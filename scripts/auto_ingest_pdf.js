@@ -28,6 +28,9 @@ function updateMarkdownSection(targetFile, pdfList, categoryTitle, sectionTitle)
   if (!fs.existsSync(targetFile)) return;
   let content = fs.readFileSync(targetFile, 'utf8');
 
+  // Natural numerical sorting for lecture1, lecture2 ... lecture10, lecture11, lecture12
+  pdfList.sort((a, b) => a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' }));
+
   pdfList.forEach(pdfPath => {
     const filename = path.basename(pdfPath);
     const relUrl = `/yaozhiyong.github.io/pdf/${path.relative(basePdfDir, pdfPath).replace(/\\/g, '/')}`;

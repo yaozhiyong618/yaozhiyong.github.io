@@ -43,95 +43,84 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 
 ---
 
-> 💡 **学生交流与答疑 | Contact**：如需获取课程讲义或咨询课程问题，请通过官方邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
+## 📚 讲义与课件列表 | Lecture Notes & Slides
 
-
-### 📄 《A Brief Introduction to Economics》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 1. 《A Brief Introduction to Economics》
+* **分类 | Category**：课程导论与概述 (Course Introduction)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/A Brief Introduction to Economics.pdf)
 
 ---
 
-
-### 📄 《lecture1》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 2. 《Lecture 1》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture1.pdf)
 
 ---
 
-
-### 📄 《lecture10》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture10.pdf)
-
----
-
-
-### 📄 《lecture11》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture11.pdf)
-
----
-
-
-### 📄 《lecture12》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture12.pdf)
-
----
-
-
-### 📄 《lecture2》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 3. 《Lecture 2》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture2.pdf)
 
 ---
 
-
-### 📄 《lecture3》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 4. 《Lecture 3》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture3.pdf)
 
 ---
 
-
-### 📄 《lecture4》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 5. 《Lecture 4》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture4.pdf)
 
 ---
 
-
-### 📄 《lecture5》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 6. 《Lecture 5》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture5.pdf)
 
 ---
 
-
-### 📄 《lecture6》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 7. 《Lecture 6》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture6.pdf)
 
 ---
 
-
-### 📄 《lecture7》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 8. 《Lecture 7》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture7.pdf)
 
 ---
 
-
-### 📄 《lecture8》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 9. 《Lecture 8》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture8.pdf)
 
 ---
 
-
-### 📄 《lecture9》
-* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+### 📄 10. 《Lecture 9》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture9.pdf)
 
 ---
+
+### 📄 11. 《Lecture 10》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture10.pdf)
+
+---
+
+### 📄 12. 《Lecture 11》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture11.pdf)
+
+---
+
+### 📄 13. 《Lecture 12》
+* **分类 | Category**：高级微观经济学讲义 (Advanced Microeconomics Slides)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture12.pdf)
+
+---
+
+> 💡 **学生交流与答疑 | Contact**：如需获取课程讲义或咨询课程问题，请通过官方邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
