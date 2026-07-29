@@ -16,7 +16,7 @@ cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=
 
 ---
 
-## 📚 专著列表 | Academic Book List
+## 📚 专著与核心著作列表 | Academic Book List
 
 ### 1. 《人本良序论0》 (*Humanist Good Order Theory 0*)
 * **主题 | Topic**：人本秩序、社会结构与文明演化
@@ -46,35 +46,24 @@ cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=
 
 ---
 
-
-### 《daotong-xuetong-zhengtong》 (*Daotong Xuetong Zhengtong*)
-* **主题 | Topic**：学术著作 / 电子书全文
-* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+### 5. 《道统、学统与政统》 (*Tao Tradition, Academic Tradition, and Governance Tradition*)
+* **主题 | Topic**：中国传统政治思想、思想史与现代转化
+* **摘要 | Abstract**：阐释中国历史演化中的道统、学统与政统结构，探讨传统文化资源与现代国家构建的对接。
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/daotong-xuetong-zhengtong.pdf)
 
 ---
 
-
-### 《minzhu-fazhi》 (*Minzhu Fazhi*)
-* **主题 | Topic**：学术著作 / 电子书全文
-* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+### 6. 《论民主化与法治化》 (*On Democratization & the Rule of Law*)
+* **主题 | Topic**：法治建设、民主政治与现代国家治理
+* **摘要 | Abstract**：系统探讨现代政治文明构建中法治与民主的辩证关系，提出良法善治的现实路径。
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/minzhu-fazhi.pdf)
 
 ---
 
-
-### 《shichang-minying》 (*Shichang Minying*)
-* **主题 | Topic**：学术著作 / 电子书全文
-* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+### 7. 《论市场化与民营化》 (*On Marketization & Privatization*)
+* **主题 | Topic**：经济体制改革、市场机制与民营经济
+* **摘要 | Abstract**：论述中国经济改革进程中市场化转型与民营经济发展的逻辑、路径与制度保障。
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/shichang-minying.pdf)
-
----
-
-
-### 《国际人本良序论》 (*国际人本良序论*)
-* **主题 | Topic**：学术著作 / 电子书全文
-* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/国际人本良序论.pdf)
 
 ---
 

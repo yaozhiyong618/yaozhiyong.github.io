@@ -64,7 +64,8 @@ updateMarkdownSection(publicationsFile, pubPdfs, '学术论文 (Publications)', 
 const coursePdfs = getAllPdfs(path.join(basePdfDir, 'courses'));
 updateMarkdownSection(coursesFile, coursePdfs, '课程与讲义 (Lecture Notes & Outlines)', '教学课程');
 
-// 4. Ingest Books (专著)
+// 4. Process root pdf/ directory for fallback (disabled to prevent duplicate/unformatted entries)
+// processCategoryDir(basePdfDir, booksFile, '专著', '学术资料');
 const bookPdfs = getAllPdfs(path.join(basePdfDir, 'books'));
 updateMarkdownSection(booksFile, bookPdfs, '学术专著 (Monographs)', '学术专著');
 
