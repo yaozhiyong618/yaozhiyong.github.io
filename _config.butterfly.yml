@@ -1,28 +1,32 @@
 # Butterfly Theme Configuration
 
-# 导航栏菜单
+# 导航栏菜单（中英对照，“学术著作”调整为“著作”）
 menu:
-  首页: /yaozhiyong.github.io/ || fas fa-home
-  论文: /yaozhiyong.github.io/categories/论文/ || fas fa-file-alt
-  杂文: /yaozhiyong.github.io/categories/杂文/ || fas fa-feather-alt
-  课程: /yaozhiyong.github.io/categories/课程/ || fas fa-graduation-cap
-  关于作者: /yaozhiyong.github.io/2026/07/29/yaozhiyong-profile/ || fas fa-user-circle
-  归档: /yaozhiyong.github.io/archives/ || fas fa-archive
+  首页 Home: /yaozhiyong.github.io/ || fas fa-home
+  著作 Publications: /yaozhiyong.github.io/categories/论文/ || fas fa-book
+  杂文 Essays: /yaozhiyong.github.io/categories/杂文/ || fas fa-feather-alt
+  课程 Courses: /yaozhiyong.github.io/categories/课程/ || fas fa-graduation-cap
+  关于作者 About: /yaozhiyong.github.io/2026/07/29/yaozhiyong-profile/ || fas fa-user-circle
+  归档 Archives: /yaozhiyong.github.io/archives/ || fas fa-archive
 
-# 侧边栏个人卡片
+# 侧边栏与公告栏设置
 aside:
   enable: true
   hide: false
   button: true
   card_author:
     enable: true
-    description: 复旦大学管理学院教授、博导。主要研究微观经济理论、博弈论、政治经济学与中国经济改革。
+    description: 复旦大学管理学院教授、博导 | Professor at School of Management, Fudan University.
     avatar: /img/avatar.png
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/yaozhiyong618/
+  # 公告栏 (Announcement Card)
+  card_announcement:
+    enable: true
+    content: Welcome to my web.
 
 # 社交链接
 social:
@@ -45,4 +49,4 @@ footer:
   owner:
     enable: true
     since: 2026
-  custom_text: 姚志勇 教授 个人学术博客
+  custom_text: 姚志勇 教授的个人博客 | Prof. Zhiyong Yao's Personal Blog
