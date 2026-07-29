@@ -7,7 +7,7 @@ tags:
   - 体制改革
 categories:
   - 杂文
-cover: https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1200&auto=format&fit=crop&q=80
+cover: /img/china_soccer_strategy_cover.jpg
 ---
 
 从战略管理与机制设计的视角，深度剖析中国足球改革、竞技体育发展与体制突围的现实路径。
