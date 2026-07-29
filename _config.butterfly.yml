@@ -26,6 +26,11 @@ subtitle:
     - 专注微观经济理论、博弈论、契约理论与中国经济改革
     - 论道、学与政 | On Tao, Academics, and Governance
 
+# 头像配置
+avatar:
+  img: /img/avatar.png
+  effect: false
+
 # 侧边栏与公告栏设置
 aside:
   enable: true
