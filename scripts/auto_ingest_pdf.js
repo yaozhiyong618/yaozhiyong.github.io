@@ -1,50 +1,75 @@
 const fs = require('fs');
 const path = require('path');
 
-const pdfDir = path.join(__dirname, '../source/pdf');
+const basePdfDir = path.join(__dirname, '../source/pdf');
 const booksFile = path.join(__dirname, '../source/_posts/books.md');
+const publicationsFile = path.join(__dirname, '../source/_posts/publications.md');
+const coursesFile = path.join(__dirname, '../source/_posts/courses.md');
 
-if (!fs.existsSync(pdfDir) || !fs.existsSync(booksFile)) {
-  console.log('Directory or books.md not found, skipping pdf auto ingest.');
-  process.exit(0);
-}
+// Helper to sanitize & auto-ingest a directory
+function processCategoryDir(targetDir, targetMdPath, categoryTag, categoryLabel) {
+  if (!fs.existsSync(targetDir) || !fs.existsSync(targetMdPath)) return;
 
-let booksContent = fs.readFileSync(booksFile, 'utf8');
-const pdfFiles = fs.readdirSync(pdfDir).filter(file => file.endsWith('.pdf'));
+  let mdContent = fs.readFileSync(targetMdPath, 'utf8');
+  const pdfFiles = fs.readdirSync(targetDir).filter(file => file.endsWith('.pdf'));
 
-let newAdded = 0;
+  let addedCount = 0;
 
-pdfFiles.forEach((file) => {
-  // Check if PDF file path already exists in books.md
-  if (!booksContent.includes(file)) {
-    const rawName = path.basename(file, '.pdf');
-    // Format human readable title
-    const formattedTitle = rawName
-      .replace(/-/g, ' ')
-      .replace(/\b\w/g, l => l.toUpperCase());
+  pdfFiles.forEach(file => {
+    const relativeUrlPath = `/yaozhiyong.github.io/pdf/${path.relative(basePdfDir, path.join(targetDir, file)).replace(/\\/g, '/')}`;
+    
+    // Check if URL is already in Markdown
+    if (!mdContent.includes(file) && !mdContent.includes(relativeUrlPath)) {
+      const jsonMetaPath = path.join(targetDir, `${path.basename(file, '.pdf')}.json`);
+      let meta = {
+        title: path.basename(file, '.pdf'),
+        english: path.basename(file, '.pdf').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+        topic: `${categoryLabel} / 学术资料`,
+        abstract: `收录于姚志勇教授个人学术资料库。`
+      };
 
-    const newBookEntry = `\n### 《${rawName}》 (*${formattedTitle}*)
-* **主题 | Topic**：学术著作 / 电子书全文
-* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/${file})
+      // Read custom JSON metadata if exists
+      if (fs.existsSync(jsonMetaPath)) {
+        try {
+          const userMeta = JSON.parse(fs.readFileSync(jsonMetaPath, 'utf8'));
+          meta = { ...meta, ...userMeta };
+        } catch (e) {
+          console.error(`Error parsing ${jsonMetaPath}:`, e);
+        }
+      }
+
+      const entry = `\n### 《${meta.title}》 (*${meta.english}*)
+* **主题 | Topic**：${meta.topic}
+* **摘要 | Abstract**：${meta.abstract}
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](${relativeUrlPath})
 
 ---
 `;
 
-    // Append before the ending note or at the end of file
-    if (booksContent.includes('> 💡 **提示 | Note**')) {
-      booksContent = booksContent.replace('> 💡 **提示 | Note**', `${newBookEntry}\n> 💡 **提示 | Note**`);
-    } else {
-      booksContent += `\n${newBookEntry}`;
-    }
-    newAdded++;
-    console.log(`Auto ingested new PDF into books.md: ${file}`);
-  }
-});
+      if (mdContent.includes('> 💡 **提示 | Note**')) {
+        mdContent = mdContent.replace('> 💡 **提示 | Note**', `${entry}\n> 💡 **提示 | Note**`);
+      } else {
+        mdContent += `\n${entry}`;
+      }
 
-if (newAdded > 0) {
-  fs.writeFileSync(booksFile, booksContent, 'utf8');
-  console.log(`Successfully auto-ingested ${newAdded} new PDF(s) into books.md.`);
-} else {
-  console.log('All PDF files are already registered in books.md.');
+      addedCount++;
+      console.log(`[Auto Ingest] Ingested ${file} into ${path.basename(targetMdPath)} (${categoryLabel})`);
+    }
+  });
+
+  if (addedCount > 0) {
+    fs.writeFileSync(targetMdPath, mdContent, 'utf8');
+  }
 }
+
+// 1. Process pdf/books/ -> books.md (专著)
+processCategoryDir(path.join(basePdfDir, 'books'), booksFile, '专著', '学术专著');
+
+// 2. Process pdf/publications/ -> publications.md (论文)
+processCategoryDir(path.join(basePdfDir, 'publications'), publicationsFile, '论文', '学术论文');
+
+// 3. Process pdf/courses/ -> courses.md (课程)
+processCategoryDir(path.join(basePdfDir, 'courses'), coursesFile, '课程', '教学课程');
+
+// 4. Process root pdf/ directory for fallback
+processCategoryDir(basePdfDir, booksFile, '专著', '学术资料');
