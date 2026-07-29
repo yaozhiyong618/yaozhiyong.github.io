@@ -1,0 +1,39 @@
+# Butterfly Theme Configuration
+
+# 导航栏菜单
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  学术著作: /2026/07/29/publications/ || fas fa-book
+
+# 侧边栏个人卡片
+aside:
+  enable: true
+  hide: false
+  button: true
+  card_author:
+    enable: true
+    description: 经济学、政治学与文明论研究学者
+    avatar: /img/avatar.png
+
+# 社交链接
+social:
+  GitHub: https://github.com/yaozhiyong618 || fab fa-github
+
+# 主题颜色与外观
+theme_color:
+  main: "#3b82f6"
+  paginator: "#3b82f6"
+  text_selection: "#3b82f6"
+  link_color: "#2563eb"
+
+# 页面打赏或分享
+reward:
+  enable: false
+
+# 页面页脚
+footer:
+  owner:
+    enable: true
+    since: 2026
+  custom_text: 姚志勇 个人学术博客
