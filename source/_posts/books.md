@@ -46,4 +46,36 @@ cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=
 
 ---
 
+
+### 《daotong-xuetong-zhengtong》 (*Daotong Xuetong Zhengtong*)
+* **主题 | Topic**：学术著作 / 电子书全文
+* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/daotong-xuetong-zhengtong.pdf)
+
+---
+
+
+### 《minzhu-fazhi》 (*Minzhu Fazhi*)
+* **主题 | Topic**：学术著作 / 电子书全文
+* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/minzhu-fazhi.pdf)
+
+---
+
+
+### 《shichang-minying》 (*Shichang Minying*)
+* **主题 | Topic**：学术著作 / 电子书全文
+* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/shichang-minying.pdf)
+
+---
+
+
+### 《国际人本良序论》 (*国际人本良序论*)
+* **主题 | Topic**：学术著作 / 电子书全文
+* **摘要 | Abstract**：收录于姚志勇教授个人学术图书馆与著作库。
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/国际人本良序论.pdf)
+
+---
+
 > 💡 **提示 | Note**：以上专著均提供完整版 PDF 下载。如果您在阅读过程有任何交流与建议，欢迎通过个人邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
