@@ -25,14 +25,21 @@ cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=
 
 ---
 
-### 2. 《禅学通史与文明论》 (*General History of Zen & Civilizational Theory*)
+### 2. 《国际人本良序论》 (*International Humanist Good Order Theory*)
+* **主题 | Topic**：国际秩序、全球治理与人本文明
+* **摘要 | Abstract**：探讨全球化背景下国际秩序的人本变革与良性治理框架，构建国际良序社会的理论图景。
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/guoji-renben-liangxu.pdf)
+
+---
+
+### 3. 《禅学通史与文明论》 (*General History of Zen & Civilizational Theory*)
 * **主题 | Topic**：禅学思想史、精神史与东西方文明比较
 * **摘要 | Abstract**：系统梳理禅学历史演变，分析禅宗智慧对当代文明构建与精神危机的启示。
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/chanxue-tongshi.pdf)
 
 ---
 
-### 3. 《自由主义与人本主义》 (*Liberalism & Humanism*)
+### 4. 《自由主义与人本主义》 (*Liberalism & Humanism*)
 * **主题 | Topic**：政治哲学、思想史与人文精神
 * **摘要 | Abstract**：深入剖析自由主义思想脉络与人本主义价值核心，探讨两者的契合与现实张力。
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/ziyou-renben.pdf)
