@@ -44,3 +44,94 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 ---
 
 > 💡 **学生交流与答疑 | Contact**：如需获取课程讲义或咨询课程问题，请通过官方邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
+
+
+### 📄 《A Brief Introduction to Economics》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/A Brief Introduction to Economics.pdf)
+
+---
+
+
+### 📄 《lecture1》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture1.pdf)
+
+---
+
+
+### 📄 《lecture10》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture10.pdf)
+
+---
+
+
+### 📄 《lecture11》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture11.pdf)
+
+---
+
+
+### 📄 《lecture12》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture12.pdf)
+
+---
+
+
+### 📄 《lecture2》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture2.pdf)
+
+---
+
+
+### 📄 《lecture3》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture3.pdf)
+
+---
+
+
+### 📄 《lecture4》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture4.pdf)
+
+---
+
+
+### 📄 《lecture5》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture5.pdf)
+
+---
+
+
+### 📄 《lecture6》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture6.pdf)
+
+---
+
+
+### 📄 《lecture7》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture7.pdf)
+
+---
+
+
+### 📄 《lecture8》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture8.pdf)
+
+---
+
+
+### 📄 《lecture9》
+* **分类 | Category**：课程与讲义 (Lecture Notes & Outlines)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture9.pdf)
+
+---
