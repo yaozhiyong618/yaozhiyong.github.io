@@ -9,7 +9,7 @@ tags:
 categories:
   - 论文
   - 学术著作
-cover: /img/banner.jpg
+cover: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=format&fit=crop&q=80
 ---
 
 欢迎阅读与下载姚志勇老师的学术著作、论著全文与电子书。点击下方各著作的【📄 在线阅读与下载 PDF 全文】按钮即可在线阅读或下载完整版 PDF 文件。  

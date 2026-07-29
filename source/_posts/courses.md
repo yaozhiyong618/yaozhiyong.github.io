@@ -7,7 +7,7 @@ tags:
   - 高级微观经济学 (Advanced Microeconomics)
 categories:
   - 课程
-cover: /img/banner.jpg
+cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=format&fit=crop&q=80
 ---
 
 欢迎查阅复旦大学姚志勇教授主讲课程的相关教学资料与课程大纲。  

@@ -8,7 +8,7 @@ tags:
   - 经济学教授 (Professor of Economics)
 categories:
   - 个人简介
-cover: /img/banner.jpg
+cover: https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=1200&auto=format&fit=crop&q=80
 ---
 
 ## 👨‍🏫 个人简介 | Biography

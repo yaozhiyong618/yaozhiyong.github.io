@@ -7,7 +7,7 @@ tags:
   - 思想观察 (Observations)
 categories:
   - 杂文
-cover: /img/banner.jpg
+cover: https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&auto=format&fit=crop&q=80
 ---
 
 本栏目收录姚志勇教授的学术随笔、文化观察与社会思考杂文。  
