@@ -7,6 +7,7 @@ tags:
   - 经济学
   - 政治学
 categories:
+  - 论文
   - 学术著作
 cover: /img/banner.jpg
 ---

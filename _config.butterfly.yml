@@ -3,8 +3,10 @@
 # 导航栏菜单
 menu:
   首页: /yaozhiyong.github.io/ || fas fa-home
-  关于作者: /yaozhiyong.github.io/2026/07/29/yaozhiyong-profile/ || fas fa-user
-  学术著作: /yaozhiyong.github.io/2026/07/29/publications/ || fas fa-book
+  论文: /yaozhiyong.github.io/categories/论文/ || fas fa-file-alt
+  杂文: /yaozhiyong.github.io/categories/杂文/ || fas fa-feather-alt
+  课程: /yaozhiyong.github.io/categories/课程/ || fas fa-graduation-cap
+  关于作者: /yaozhiyong.github.io/2026/07/29/yaozhiyong-profile/ || fas fa-user-circle
   归档: /yaozhiyong.github.io/archives/ || fas fa-archive
 
 # 侧边栏个人卡片
