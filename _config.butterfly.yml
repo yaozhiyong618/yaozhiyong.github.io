@@ -1,6 +1,6 @@
 # Butterfly Theme Configuration
 
-# 导航栏菜单（由 Hexo 自动结合 root 自动生成，菜单路径须为从根目录开始的斜杠）
+# 导航栏菜单（中英对照）
 menu:
   首页 Home: / || fas fa-home
   著作 Publications: /categories/论文/ || fas fa-book
@@ -27,6 +27,28 @@ aside:
   card_announcement:
     enable: true
     content: Welcome to my web.
+
+# 评论系统配置 (Giscus)
+comments:
+  use:
+    - Giscus
+  text: true
+  lazyload: false
+  count: false
+
+giscus:
+  repo: yaozhiyong618/yaozhiyong.github.io
+  repo_id: R_kgDOTemzmg
+  category: General
+  category_id: DIC_kwDOTemzms4DCNQs
+  mapping: pathname
+  strict: '0'
+  reactions_enabled: '1'
+  emit_metadata: '0'
+  input_position: bottom
+  theme: light
+  dark_theme: dark
+  lang: zh-CN
 
 # 社交链接
 social:
