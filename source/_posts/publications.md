@@ -16,99 +16,97 @@ cover: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=
 
 ---
 
-
-## 1. 《Bargaining Over Incentive Contracts》
+## 《Bargaining Over Incentive Contracts》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/bargaining-over-incentive-contracts.pdf)
 
 ---
 
-## 2. 《BEJEAP 2014 0165》
+## 《BEJEAP 2014 0165》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/bejeap-2014-0165.pdf)
 
 ---
 
-## 3. 《Bribe to Cooperate: MDE Official》
+## 《Bribe to Cooperate: MDE Official》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/bribe-to-cooperate_MDE_official.pdf)
 
 ---
 
-## 4. 《Challenges in Organizational Control: The Economic and Management Perspectives》
+## 《Challenges in Organizational Control: The Economic and Management Perspectives》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/Challenges-in-Organizational-Control_-The-Economic-and-Management-Perspectives_official.pdf)
 
 ---
 
-## 5. 《Immediate Settlement or During a Strike, Choice of Signals》
+## 《Immediate Settlement or During a Strike, Choice of Signals》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/immediate-settlement-or-during-a-strike-choice-of-signals_official.pdf)
 
 ---
 
-
-## 6. 《Marketing Letters Paper》
+## 《Marketing Letters Paper》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/marketing-letters.pdf)
 
 ---
 
-## 7. 《MATSOC1684》
+## 《MATSOC1684》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/MATSOC1684.pdf)
 
 ---
 
-## 8. 《Merger Options and Market Competition》
+## 《Merger Options and Market Competition》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/merger-options.pdf)
 
 ---
 
-## 9. 《MRJV (SJPE Published Version)》
+## 《MRJV (SJPE Published Version)》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/MRJV_sjpe_published-version.pdf)
 
 ---
 
-## 10. 《Proportional Fees and Contract Efficiency》
+## 《Proportional Fees and Contract Efficiency》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/proportional-fees.pdf)
 
 ---
 
-## 11. 《Quid Pro Quo (Published Version)》
+## 《Quid Pro Quo (Published Version)》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/Quid-pro-quo_published-version.pdf)
 
 ---
 
-## 12. 《R&D Cooperation Between Impatient Rivals》
+## 《R&D Cooperation Between Impatient Rivals》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/RandD-cooperation-between-impatient-rivals_official.pdf)
 
 ---
 
-## 13. 《Rating Deflation: Official Version》
+## 《Rating Deflation: Official Version》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/rating-deflation_official.pdf)
 
 ---
 
-## 14. 《SOE as Intermediation》
+## 《SOE as Intermediation》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/SOE-as-intermediation.pdf)
 
 ---
 
-## 15. 《Vertical or Horizontal Integration: Official Version》
+## 《Vertical or Horizontal Integration: Official Version》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/Vertical-or-horizontal_official.pdf)
 
 ---
 
-## 16. 《When is Upstream Collusion Profitable?》
+## 《When is Upstream Collusion Profitable?》
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/when-is-upstream-collusion-profitable.pdf)
 
