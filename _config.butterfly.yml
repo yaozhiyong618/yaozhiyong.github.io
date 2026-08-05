@@ -3,7 +3,7 @@
 # 导航栏菜单（中英对照）
 menu:
   首页 Home: / || fas fa-home
-  论文 Publications: /categories/论文/ || fas fa-file-alt
+  论文 Publications: /2026/07/29/publications/ || fas fa-file-alt
   专著 Books: /categories/专著/ || fas fa-book
   杂文 Essays: /categories/杂文/ || fas fa-feather-alt
   课程 Courses: /categories/课程/ || fas fa-graduation-cap
