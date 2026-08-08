@@ -101,8 +101,8 @@ busuanzi:
   site_pv: true
   page_pv: true
 
-# CDN 配置 (替换不蒜子为稳定镜像 CDN)
+# CDN 配置
 CDN:
   option:
-    busuanzi: https://cdn.bootcdn.net/ajax/libs/busuanzi/2.3.0/busuanzi.pure.mini.js
+    busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
