@@ -51,6 +51,7 @@ With nearly two decades of academic research and teaching experience, his resear
 
 * **MBA 课程**：《管理经济学》 (*Managerial Economics*)
 * **博士生课程**：《高级微观经济学》 (*Advanced Microeconomics*)
+* **学术课程**：《转型政治经济学》 (*Transition Political Economy*)
 
 ---
 
