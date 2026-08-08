@@ -94,3 +94,15 @@ footer:
     enable: true
     since: 2026
   custom_text: 姚志勇 教授的个人博客 | Prof. Zhiyong Yao's Personal Blog
+
+# 不蒜子统计设置 (访客数 UV / 总浏览量 PV)
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# CDN 配置 (替换不蒜子为稳定镜像 CDN)
+CDN:
+  option:
+    busuanzi: https://cdn.bootcdn.net/ajax/libs/busuanzi/2.3.0/busuanzi.pure.mini.js
+
