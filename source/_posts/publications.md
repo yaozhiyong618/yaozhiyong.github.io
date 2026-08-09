@@ -104,13 +104,6 @@ cover: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=
 * **分类 | Category**：学术论文 (Publications)
 * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/publications/when-is-upstream-collusion-profitable.pdf)
 
----
-
-
-### 📄 《bejeap 2014 0165》
-* **分类 | Category**：学术论文 (Publications)
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 (Read & Download)](/yaozhiyong.github.io/pdf/publications/bejeap-2014-0165.pdf)
 
 ---
-
 > 💡 **提示 | Note**：以上论文均提供完整版 PDF 下载。如果您在阅读过程有任何交流与建议，欢迎通过个人邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
