@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/books.md",
+                "file": "source/_posts/publications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "books"
+              "title": "publications"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/books.md",
+                "file": "source/_posts/publications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +190,9 @@
   },
   "active": "ce56067fdf8940a6",
   "lastOpenFiles": [
+    "source/_posts/books.md",
     "source/_posts/courses.md",
     "source/_posts/publications.md",
-    "source/_posts/yaozhiyong-profile.md",
-    "source/_posts/books.md"
+    "source/_posts/yaozhiyong-profile.md"
   ]
 }
