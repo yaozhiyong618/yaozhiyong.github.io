@@ -5,7 +5,6 @@ tags:
   - 课程大纲 (Course Outlines)
   - 管理经济学 (Managerial Economics)
   - 高级微观经济学 (Advanced Microeconomics)
-  - 转型政治经济学 (Transition Political Economy)
 categories:
   - 课程
 cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=format&fit=crop&q=80
@@ -71,19 +70,6 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 * 📄 **《Lecture 10》** (高级微观经济学讲义) 📥 [📄 阅读/下载 PDF](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture10.pdf)
 * 📄 **《Lecture 11》** (高级微观经济学讲义) 📥 [📄 阅读/下载 PDF](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture11.pdf)
 * 📄 **《Lecture 12》** (高级微观经济学讲义) 📥 [📄 阅读/下载 PDF](/yaozhiyong.github.io/pdf/courses/advanced-microeconomics/lecture12.pdf)
-
----
-
-## 📗 3. 学术课程：《转型政治经济学》 (*Transition Political Economy*)
-
-* **授课对象 | Target Audience**：复旦大学研究生及高年级本科生 (Graduate & Senior Undergraduate Students)
-* **课程简介 | Course Description**：本课程聚焦经济体制转型、制度变迁、转轨经济学与比较政治经济学，结合中国经济改革的实践与国际前沿理论，探讨政府与市场关系、产权改革以及国家治理演进。
-
-### 📋 教学大纲与资料下载 (Syllabus & Course Outline)
-
-* 📄 **《转型政治经济学教学大纲》** (*Transition Political Economy Syllabus*)  
-  * **内容概述 | Overview**：课程教学计划、参考书目、考核方式与讲授专题大纲。
-  * 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 大纲全文 (Read & Download PDF Outline)](/yaozhiyong.github.io/pdf/courses/%E8%BD%AC%E5%9E%8B%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
 
 ---
 

@@ -99,8 +99,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/yaozhiyong-profile.md",
-                "collapseAll": false,
+                "file": "source/_posts/publications.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +184,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce56067fdf8940a6",
+  "active": "074f0368d1b5bbde",
   "lastOpenFiles": [
     "source/_posts/yaozhiyong-profile.md",
     "source/_posts/publications.md"
