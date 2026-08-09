@@ -68,7 +68,7 @@ cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=
 # 8. 《转型政治经济学》 (*Transition Political Economy*)
 * **主题 | Topic**：经济体制转型、制度变迁与转轨政治经济学
 * **摘要 | Abstract**：聚焦经济体制转型、制度变迁、转轨经济学与比较政治经济学，结合中国经济改革的实践与国际前沿理论，探讨政府与市场关系、产权改革以及国家治理演进。
-* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/courses/%E8%BD%AC%E5%9E%8B%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
+* 📥 **全文下载 | Download**：[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/books/%E8%BD%AC%E5%9E%8B%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
 
 ---
 
