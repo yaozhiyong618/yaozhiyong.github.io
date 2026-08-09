@@ -15,7 +15,7 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 
 ---
 
-## 📘 1. MBA 课程：《管理经济学》 (*Managerial Economics*)
+## 📘 MBA 课程：《管理经济学》 (*Managerial Economics*)
 
 * **授课对象 | Target Audience**：复旦大学 MBA 项目学生 (Fudan MBA Students)
 * **课程简介 | Course Description**：本课程将微观经济学理论与现代企业管理决策深度结合，涵盖供求分析、生产与成本分析、博弈论与竞争策略、定价机制、不对称信息与契约设计等核心模块。
@@ -43,7 +43,7 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 
 ---
 
-## 📕 2. 博士生课程：《高级微观经济学》 (*Advanced Microeconomics*)
+## 📕 博士生课程：《高级微观经济学》 (*Advanced Microeconomics*)
 
 * **授课对象 | Target Audience**：复旦大学硕博连读生及博士研究生 (Ph.D. & Graduate Students)
 * **课程简介 | Course Description**：本课程为经济学与管理学博士研究生的核心专业基础课，深入探讨现代微观经济学的数学建模方法与前沿理论。
