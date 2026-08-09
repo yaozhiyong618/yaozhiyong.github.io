@@ -2,9 +2,9 @@
 title: 复旦大学姚志勇教授主讲课程大纲与课件 | Course Outlines & Slides
 date: 2026-07-29 12:00:00
 tags:
-  - 课程大纲 (Course Outlines)
-  - 管理经济学 (Managerial Economics)
-  - 高级微观经济学 (Advanced Microeconomics)
+  - '课程大纲 (Course Outlines)'
+  - '管理经济学 (Managerial Economics)'
+  - '高级微观经济学 (Advanced Microeconomics)'
 categories:
   - 课程
 cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=format&fit=crop&q=80

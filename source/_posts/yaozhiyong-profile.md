@@ -2,10 +2,10 @@
 title: 复旦大学姚志勇教授简介 | Profile of Prof. Zhiyong Yao
 date: 2026-07-29 12:00:00
 tags:
-  - 姚志勇 (Zhiyong Yao)
-  - 个人简介 (Profile)
-  - 复旦大学 (Fudan University)
-  - 经济学教授 (Professor of Economics)
+  - '姚志勇 (Zhiyong Yao)'
+  - '个人简介 (Profile)'
+  - '复旦大学 (Fudan University)'
+  - '经济学教授 (Professor of Economics)'
 categories:
   - 个人简介
 cover: https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=1200&auto=format&fit=crop&q=80

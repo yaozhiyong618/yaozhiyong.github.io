@@ -2,10 +2,10 @@
 title: 姚志勇教授学术论文集 | Academic Publications & Papers
 date: 2026-07-29 12:00:00
 tags:
-  - 学术论文 (Publications)
-  - 经济学 (Economics)
-  - 政治学 (Political Science)
-  - 制度改革 (Institutional Reform)
+  - '学术论文 (Publications)'
+  - '经济学 (Economics)'
+  - '政治学 (Political Science)'
+  - '制度改革 (Institutional Reform)'
 categories:
   - 论文
 cover: https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=format&fit=crop&q=80

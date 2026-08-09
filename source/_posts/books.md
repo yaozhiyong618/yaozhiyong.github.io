@@ -2,10 +2,10 @@
 title: 姚志勇教授学术专著集 | Academic Books & Monographs
 date: 2026-07-29 12:00:00
 tags:
-  - 学术专著 (Monographs)
-  - 人本主义 (Humanism)
-  - 禅学与文明 (Zen & Civilization)
-  - 政治哲学 (Political Philosophy)
+  - '学术专著 (Monographs)'
+  - '人本主义 (Humanism)'
+  - '禅学与文明 (Zen & Civilization)'
+  - '政治哲学 (Political Philosophy)'
 categories:
   - 专著
 cover: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&auto=format&fit=crop&q=80
