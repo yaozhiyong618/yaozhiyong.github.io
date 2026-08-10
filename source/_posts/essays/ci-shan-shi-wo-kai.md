@@ -18,7 +18,7 @@ cover: https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&auto=
 
 点击下方按钮在线阅读或下载完整 PDF 版本：
 
-[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/essays/%E2%80%9C%E6%AD%A4%E5%B1%B1%E6%98%AF%E6%88%90%E5%BC%80%E2%80%9D%E8%AE%BA.pdf)
+[📄 在线阅读与下载 PDF 全文 (Read & Download PDF)](/yaozhiyong.github.io/pdf/essays/%E2%80%9C%E6%AD%A4%E5%B1%B1%E6%98%AF%E6%88%91%E5%BC%80%E2%80%9D%E8%AE%BA.pdf)
 
 ---
 
