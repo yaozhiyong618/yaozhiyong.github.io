@@ -106,3 +106,8 @@ CDN:
   option:
     busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
+# 文章目录设置 (禁用自动给标题添加数字编号)
+toc:
+  number: false
+
+
