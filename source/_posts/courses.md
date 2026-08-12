@@ -73,4 +73,26 @@ cover: https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1200&auto=
 
 ---
 
+## 📙 专题课程/讲义：《企业理论》 (*Theory of the Firm*)
+
+* **课程简介 | Course Description**：本专题深入探讨现代企业理论的发展脉络与核心框架，包括新古典企业理论、交易成本经济学、产权理论、委托代理理论、不完全契约理论、企业能力理论与演化经济学视角的企业理论等。
+
+### 📄 章节讲义与 PDF 课件下载 (PDF Slides & Notes)
+
+* 📄 **第一章**：新古典经济学的企业理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%96%B0%E5%8F%A4%E5%85%B8%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E4%BC%81%E4%B8%9A%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第二章**：交易成本经济学 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%BA%A4%E6%98%93%E6%88%90%E6%9C%AC%E7%BB%8F%E6%B5%8E%E5%AD%A6.pdf)
+* 📄 **第三章**：产权理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BA%A7%E6%9D%83%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第四章**：完全契约框架下的委托-代理理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%AE%8C%E5%85%A8%E5%A5%91%E7%BA%A6%E6%A1%86%E6%9E%B6%E4%B8%8B%E7%9A%84%E5%A7%94%E6%89%98-%E4%BB%A3%E7%90%86%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第五章**：不完全契约理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%8D%E5%AE%8C%E5%85%A8%E5%A5%91%E7%BA%A6%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第六章**：企业能力理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E8%83%BD%E5%8A%9B%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第七章**：企业家理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第八章**：企业边界理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E8%BE%B9%E7%95%8C%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第九章**：公司治理 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86.pdf)
+* 📄 **第十章**：企业内部组织结构 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84.pdf)
+* 📄 **第十一章**：演化经济学视角的企业理论 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20%E6%BC%94%E5%8C%96%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%A7%86%E8%A7%92%E7%9A%84%E4%BC%81%E4%B8%9A%E7%90%86%E8%AE%BA.pdf)
+* 📄 **第十二章**：企业理论的整合框架与未来展望 📥 [📄 阅读与下载 PDF](/yaozhiyong.github.io/pdf/courses/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20%E4%BC%81%E4%B8%9A%E7%90%86%E8%AE%BA%E7%9A%84%E6%95%B4%E5%90%88%E6%A1%86%E6%9E%B6%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B.pdf)
+
+---
+
 > 💡 **学生交流与答疑 | Contact**：如需获取课程讲义或咨询课程问题，请通过官方邮箱 [yzy@fudan.edu.cn](mailto:yzy@fudan.edu.cn) 联系。
+
